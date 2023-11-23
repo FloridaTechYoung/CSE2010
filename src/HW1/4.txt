@@ -1,0 +1,24 @@
+DebugEnable
+ReceiveMessage 080000 Bob Hello there!
+ReceiveMessage 083000 Alice Hey, how's it going?
+OpenApp
+SendMessage 090000 Bob It's going great!
+SendMessage 081500 Carol Hi everyone!
+SendMessage 094500 Alice Good to hear, Bob!
+DisplayConversation Alice
+SendMessage 091500 Alice Awesome! Let's catch up soon.
+DeleteMessage 083000 Alice
+SendMessage 100200 Bob Sure thing!
+DisplayConversation Bob
+SendMessage 101000 Carol Hey, remember the meeting at 2 PM.
+SendMessage 090100 Bob Hey Alice, did you finish the project?
+SendMessage 103000 Carol I'll be there on time.
+SendMessage 092000 Bob Never mind, I found the solution.
+CloseApp
+ReceiveMessage 112000 Alice Just got back from shopping!
+ReceiveMessage 113500 Carol Traffic was crazy today.
+OpenApp
+SendMessage 105000 Bob Carol, can you bring the presentation slides?
+DisplayConversation Carol
+SendMessage 110000 Alice Bob, are you free for tennis tomorrow?
+CloseApp

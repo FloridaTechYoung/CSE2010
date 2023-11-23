@@ -1,0 +1,14 @@
+ReceiveMessage 100000 Alice Hi, how are you doing?
+OpenApp
+DeleteMessage 100000 Alice
+CloseApp
+OpenApp
+DisplayConversation Alice
+DisplayConversation Bob
+DisplayConversation Carol
+CloseApp
+OpenApp
+SendMessage 120000 Bob What's up?
+ReceiveMessage 121000 Bob I'm bored.
+DisplayConversation Bob
+CloseApp

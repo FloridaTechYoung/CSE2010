@@ -1,0 +1,16 @@
+ReceiveMessage 102345 Alice Hello
+ReceiveMessage 114532 Carol If so, what did they cover?
+ReceiveMessage 114531 Carol Did you go to lab today?
+OpenApp
+SendMessage 124532 Bob Did you do the homework?
+CloseApp
+ReceiveMessage 123454 Alice Have you studied?
+OpenApp
+SendMessage 123455 Alice Nope
+DeleteMessage 123455 Alice
+CloseApp
+ReceiveMessage 102234 Carol Sorry was busy
+OpenApp
+SendMessage 102345 Carol No worries
+DisplayConversation Alice
+CloseApp

@@ -1,0 +1,14 @@
+AddEvent 101910 Breakfast
+AddEvent 101913 Lunch
+AddEvent 101918 Dinner
+GetEvent 101914
+AddEvent 101911 Data Structures
+AddEvent 102007 Exercise
+PrintSkipList
+AddEvent 101915 Homework
+CancelEvent 102007
+AddEvent 102013 Relax
+AddEvent 102011 Read a Book
+GetEvent 101915
+AddEvent 101914 Call Mom
+PrintSkipList

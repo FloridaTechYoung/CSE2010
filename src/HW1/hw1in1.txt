@@ -1,0 +1,10 @@
+ReceiveMessage 101111 Alice Hi
+ReceiveMessage 110010 Carol Whats up
+ReceiveMessage 120200 Bob Hey
+OpenApp
+SendMessage 120201 Bob Hello
+DisplayConversation Alice
+CloseApp
+ReceiveMessage 110032 Carol Are you in class?
+OpenApp
+SendMessage 110035 Carol Yes

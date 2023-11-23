@@ -1,0 +1,26 @@
+OpenApp
+SendMessage 070000 Alice Hey
+CloseApp
+OpenApp
+SendMessage 070001 Alice r u gonna drop the class
+CloseApp
+OpenApp
+SendMessage 070003 Alice ?
+CloseApp
+OpenApp
+DeleteMessage 070000 Alice
+CloseApp
+OpenApp
+DeleteMessage 070001 Alice
+CloseApp
+ReceiveMessage 073008 Alice Already read it
+ReceiveMessage 073010 Alice Yes I am
+OpenApp
+DisplayConversation Alice
+SendMessage 073515 Alice Sry to hear that
+SendMessage 073501 Bob Alice is dropping class
+CloseApp
+ReceiveMessage 074000 Bob Me too
+OpenApp
+DisplayConversation Bob
+

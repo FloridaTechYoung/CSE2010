@@ -1,0 +1,43 @@
+Alice 0
+Bob 0
+Carol 0
+070000 me Hey
+Alice 0
+Bob 0
+Carol 0
+070000 me Hey
+070001 me r u gonna drop the class
+Alice 0
+Bob 0
+Carol 0
+070000 me Hey
+070001 me r u gonna drop the class
+070003 me ?
+Alice 0
+Bob 0
+Carol 0
+070001 me r u gonna drop the class
+070003 me ?
+Alice 0
+Bob 0
+Carol 0
+070003 me ?
+NotifyUser Alice
+NotifyUser Alice
+Alice 2
+Bob 0
+Carol 0
+070003 me ?
+073008 Alice Already read it
+073010 Alice Yes I am
+070003 me ?
+073008 Alice Already read it
+073010 Alice Yes I am
+073515 me Sry to hear that
+073501 me Alice is dropping class
+NotifyUser Bob
+Alice 0
+Bob 1
+Carol 0
+073501 me Alice is dropping class
+074000 Bob Me too

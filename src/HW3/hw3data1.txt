@@ -1,0 +1,10 @@
+hurricanes cat1 cat2 cat3
+cat3 FL_cat3 LA_cat3
+cat1 FL_cat1 TX_cat1
+cat2 FL_cat2 TX_cat2
+FL_cat3 Marco Jerry
+LA_cat3 Barry Laura
+TX_cat2 Jerry
+FL_cat2 Gordon William Valerie
+TX_cat1 Valerie Jerry
+FL_cat1 William Rebekah
